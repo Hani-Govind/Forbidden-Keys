@@ -26,7 +26,7 @@ Forbidden Keys uses a Chrome content script to detect paste-related keyboard sho
 1. Clone this repository:
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/Hani-Govind/Forbidden-Keys.git
    ```
 
 2. Open `chrome://extensions` in Google Chrome.
