@@ -71,4 +71,5 @@
   );
 
   document.addEventListener("paste", blockPaste, true);
-})();
+})(); 
+
